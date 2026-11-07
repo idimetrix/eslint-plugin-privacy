@@ -1,0 +1,10 @@
+{
+  "reject": [
+    "@types/eslint",
+    "eslint",
+    "eslint6",
+    "eslint7",
+    "eslint8",
+    "eslint9"
+  ]
+}
